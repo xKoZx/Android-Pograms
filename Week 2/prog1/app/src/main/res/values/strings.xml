@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sumApp</string>
+    <string name="num1_hint">Enter first number</string>
+    <string name="num2_hint">Enter second number</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="result">Result:</string>
+    <string name="koushal">My_name</string>
+
+</resources>
